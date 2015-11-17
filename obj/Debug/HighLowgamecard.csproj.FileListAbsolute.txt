@@ -1,0 +1,6 @@
+D:\hlgc\HighLowgamecard\HighLowgamecard\bin\Debug\HighLowgamecard.exe.config
+D:\hlgc\HighLowgamecard\HighLowgamecard\bin\Debug\HighLowgamecard.exe
+D:\hlgc\HighLowgamecard\HighLowgamecard\bin\Debug\HighLowgamecard.pdb
+D:\hlgc\HighLowgamecard\HighLowgamecard\obj\Debug\HighLowgamecard.csprojResolveAssemblyReference.cache
+D:\hlgc\HighLowgamecard\HighLowgamecard\obj\Debug\HighLowgamecard.exe
+D:\hlgc\HighLowgamecard\HighLowgamecard\obj\Debug\HighLowgamecard.pdb
